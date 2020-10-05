@@ -1,0 +1,4 @@
+create file and edit+ ctrl+D to savez
+
+Z
+zz
