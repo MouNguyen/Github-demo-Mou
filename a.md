@@ -59,7 +59,7 @@
         | … đ đến … đ |	Gold        |  ..%         |
         |… đ đến … đ |	Platinum |   ..%           |
         | … đ đến … đ |	Diamond |    ..%        |
-        a
+
     <br>**Bảng trách nhiệm yêu cầu nghiệp vụ**
 
         | STT | Nghiệp vụ | Người dùng | Phần mềm | Ghi chú |
